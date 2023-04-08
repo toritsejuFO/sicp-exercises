@@ -15,6 +15,11 @@ _I make the assumption that you have scheme installed locally, or running via do
   * `(load "exercise-1.2")`
   * `run`
 
+For exercises that require arguments, `run` would be executed like any other procedure, e.g to execute `exercise-1.3`, use the command
+- `(load "exercise-1.3")`
+- `(run 1 2 3)` (with these inputs, answer is 13)
+
+
 __Note__: I use `run` in each exercise file as the general command to execute the solution that prints the final output/answer to the exercise.
 
 
