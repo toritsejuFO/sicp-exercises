@@ -31,3 +31,13 @@ these square-root and cube-root procedures.)
 (define (cbrt x)
   (cbrt-iter 1.0 x)
 )
+
+;;; Alias
+
+(define (run-iter guess x)
+  (cbrt-iter guess x)
+)
+
+(define (run x)
+  (cbrt x)
+)
