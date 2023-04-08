@@ -26,3 +26,6 @@ __Note__: I use `run` in each exercise file as the general command to execute th
 ### Running via Docker
 
 Follow the instructions by **"ProfessorHarveysNumberOneFan"** in his review on this page https://archive.org/details/ucberkeley_webcast_l28HAzKy0N8
+
+
+__PS__: I only try to implement the exercises I can as I was studying the book. And I ignore exercises that require just the evaluation of a given expression, seeing that the answer is already part of the exercise.
