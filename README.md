@@ -20,6 +20,8 @@ For exercises that require arguments, `run` would be executed like any other pro
 - `(run 1 2 3)` (with these inputs, answer is 13)
 
 
+__Note__: Immediately your environment is setup, first run `(load "simplyscm")` to load the SICP scheme lib used in the video course of the book at Berkeley.
+
 __Note__: I use `run` in each exercise file as the general command to execute the solution that prints the final output/answer to the exercise.
 
 
